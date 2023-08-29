@@ -1,5 +1,0 @@
-1, batata frita, entrada, 10.0
-3, refrigerante, bebida, 5.0
-4, hamburguer, prato principal, 25.0
-5, arroz, acompanhamento, 20.0
-10, picole, sobremesa, 2.5
